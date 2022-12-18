@@ -5,4 +5,4 @@ This repository contains the files created for the following Blips Blog tutorial
 Contains the tutorial's fmod project and Unity scripts
 
 ## Scripts License
-[MIT License](Unity Scripts/LICENSE).
+[MIT License](LICENSE).
